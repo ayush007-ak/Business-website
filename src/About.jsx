@@ -1,5 +1,5 @@
 import React from 'react';
-import web from '../src/Images/wao.gif';
+import web from '../src/Images/rocket.png';
 import {NavLink} from "react-router-dom";
 import Common from './Common';
 
